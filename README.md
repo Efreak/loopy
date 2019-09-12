@@ -33,3 +33,6 @@ ffmpeg -framerate 29.7 -pattern_type sequence -start_number 102 -c:v png -f imag
 # now delete intermediate files
 rm -rf tmp
 ```
+## TODO:
+Caramelldansen
+Another leekspin: https://www.youtube.com/watch?v=c17xydS2vgU
