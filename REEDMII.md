@@ -34,9 +34,10 @@ ffmpeg -framerate 29.7 -pattern_type sequence -start_number 102 -c:v png -f imag
 rm -rf tmp
 ```
 ## TODO:
+leekspin: no srsly, I forgot to add audio.
+leekspin: get net frames, mouth doesn't move
 Caramelldansen
 Another leekspin: https://www.youtube.com/watch?v=c17xydS2vgU
-leekspin: get net frames, mouth doesn't move
 Beaver beaver beaver mushroom mushroom
 trolololo
 the end of the world (maybe?)
