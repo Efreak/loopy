@@ -37,3 +37,14 @@ rm -rf tmp
 Caramelldansen
 Another leekspin: https://www.youtube.com/watch?v=c17xydS2vgU
 leekspin: get net frames, mouth doesn't move
+Beaver beaver beaver mushroom mushroom
+trolololo
+the end of the world (maybe?)
+hampsterdance(!)
+peanut butter jelly time
+'let them eat cake' game - specifically, extract the audio
+snakes on a plane?
+put a [squirrel](https://en.wikipedia.org/wiki/Crasher_Squirrel) on top of ceilingcat
+oolong rabbit
+dancing baby
+
