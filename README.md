@@ -1,6 +1,6 @@
 # Looping videos
 
-Looping videos. Like [leekspin](/leekspin). Or Caramelldansen (tbd).
+Looping videos. Like [leekspin](leekspin). Or Caramelldansen (tbd).
 
 ### How to download crap from crunchyroll (leekspin is ep2 of bleach at around 13:30)
 
@@ -36,3 +36,4 @@ rm -rf tmp
 ## TODO:
 Caramelldansen
 Another leekspin: https://www.youtube.com/watch?v=c17xydS2vgU
+leekspin: get net frames, mouth doesn't move
