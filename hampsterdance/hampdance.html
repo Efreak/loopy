@@ -33,13 +33,18 @@ for "http://www.geocities.com/Heartland/Bluffs/4157/" by "MeHampster@aol.com" r 
 <p>
 
 <CENTER><A>Send the Hamster Dance as a Card</A></CENTER>
-
- <DT><CENTER><FONT
-   FACE="Helvetica,Arial,Geneva"><A HREF="dedodedo.wav"><EMBED
-   SRC="dedodedo.wav" WIDTH=146 HEIGHT=60
-   autostart=true loop=true></A></FONT>
-</CENTER>
-
+<audio src="dedodedo.wav" autoplay="true" loop></audio>
+<script>
+var aud=document.querySelector('audio');
+var play=function(){try{if(aud.paused){aud.play()}else{aud.pause();}}catch(e){console.error(e)}}
+console.log(play)
+document.body.addEventListener('click',i=>play());
+document.body.addEventListener('touchstart',i=>play());
+document.body.addEventListener('keydown',i=>play());
+</script>
+<script>
+a.addEventListener('canplay',i=>play());
+</script>
 <CENTER><P><IMG SRC="anin.gif"alt="HUGO, BRIAN THE HAMSTER, JUSTINA"><IMG SRC="anin.gif"alt="TWISTER"><IMG SRC="anin.gif"alt="FATTY BOOM BOOM"><IMG SRC="anin.gif"><IMG SRC="anin.gif">
 
 <IMG SRC="hamu.gif"alt="SNOWBALL"><IMG SRC="hamu.gif"alt="IZZY"><IMG SRC="hamu.gif"alt="BUD"><IMG SRC="hamu.gif"alt="QUIRBY"><IMG SRC="hamu.gif"alt="TINK"><IMG SRC="hamu.gif"alt="NORBY"><IMG SRC="hamu.gif"alt="MELONHEAD"><IMG SRC="hamu.gif"alt="UNCLE EUGENE"><IMG SRC="hamu.gif"alt="BOOG"><IMG SRC="hamu.gif"alt="RHEAT1"><IMG SRC="hamu.gif"alt="BEKY"><IMG SRC="hamu.gif">
